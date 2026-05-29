@@ -9,7 +9,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, revenu
 * Microsoft Excel
 
 ## Analysis Performed
-* Analyzed monthly revenue trends (January–March)
+* Analyzed monthly revenue trends
 * Compared sales channels (On Shop vs Online Orders)
 * Tracked transaction amount totaling ₹9.86 Lakhs
 * Evaluated sales performance using KPI metrics
